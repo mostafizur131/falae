@@ -1,3 +1,3 @@
 # todo-app-solution 
 
-https://github.com/mir-hussain/todo-list-solution
+https://github.com/TahsinMostafiz/toDo_list_localStorage.git
